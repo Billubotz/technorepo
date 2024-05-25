@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/TechnoMindz/CommonBot_For_All",
-    "repository": "https://github.com/TechnoMindz/CommonBot_For_All",
+    "repository": "https://github.com/Billubotz/technorepo",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
